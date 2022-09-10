@@ -5,7 +5,7 @@ One of the two "demo that run on everything" is already on that machine (Bad App
 
 #### Installation
 
-Put the "numdoom"-folder into apps/ and compile with `make PLATFORM=simulator EPSILON_APPS="doom settings"`.
+Put the "doom"-folder into apps/ and compile with `make PLATFORM=simulator EPSILON_APPS="doom settings"`.
 
 #### Problems
 
